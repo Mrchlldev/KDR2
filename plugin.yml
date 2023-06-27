@@ -7,6 +7,8 @@ main: Aboshxm2\KDR2\Main
 softdepend: ScoreHud
 
 permissions:
+  KDR2.command:
+    default: true
   KDR2.commands.kdr.stats:
     default: true
   KDR2.commands.kdr.edit:
